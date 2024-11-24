@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>goit-js-hw-04</title>
+</head>
+<body>
+    <h1>6: Arrays and Object Methods - Alexander Andersen</h1>
+
+    <h2>Task 1. Packing goods</h2>
+    <div id="task-1-results"></div>
+
+    <h2>Task 2. Calorie calculation</h2>
+    <div id="task-2-results"></div>
+
+    <h2>Task 3. Player profile</h2>
+    <div id="task-3-results"></div>
+
+
+    <script src="js/JS task-1.js"></script>
+    <script src="js/JS task-2.js"></script>
+    <script src="js/JS task-3.js"></script>
+    
+
+</body>
+</html>
